@@ -1,0 +1,26 @@
+body{
+   background-color:hsl(212, 45%, 89%);
+  
+   
+}
+
+.container{ 
+
+background-color: white;
+
+  height: 520px;
+  width: 390px;
+  margin: auto;
+  border-radius: 5%;
+  text-align: center;
+
+}
+img{
+    height:270px;
+    width:290px;
+    margin-left: 30px;
+    margin-top: 15px;
+    border-radius: 5%;
+}
+
+
